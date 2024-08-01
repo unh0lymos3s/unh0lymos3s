@@ -1,10 +1,8 @@
-## Hi there 👋
 
 
 
 
-
-https://github.com/user-attachments/assets/15f1a22e-e68b-4ff0-b40f-b5941b660414
+ <img src="https://giphy.com/gifs/DFlDjTANB0yRvyROg2"/>
 
 
 <!--
