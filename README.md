@@ -4,7 +4,7 @@ I'm Moosa, otherwise known as UnholyMoses. I'm a data scientist and a researcher
                                                                                                                                                                                                                 
 Scroll down to see some of my work. (did most of it in class so be prepared to be underwhelmed lol)
 <br><br>
-Currently working on Social Network Analysis 💤
+Currently working on Social Network Analysis 💤👨‍💻
 <!--
 **unh0lymos3s/unh0lymos3s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
