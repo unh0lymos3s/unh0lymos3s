@@ -1,6 +1,7 @@
 
 <img src = "32272f11-9a0a-4ca0-8ee3-db7c2bb6b40e.gif" width = 100%>
-
+I'm Moosa, otherwise known as UnholyMoses. I'm a data scientist and a researcher from Pakistan 🇵🇰🔝 who enjoys working with Python and Pyspark for Machine Learning, Deep learning, Data visualization and Analytics. 
+Scroll down to see some of my work. (did most of it in class so be prepared to be underwhelmed lol)
 
 <!--
 **unh0lymos3s/unh0lymos3s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
