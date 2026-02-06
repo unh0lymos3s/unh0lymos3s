@@ -1,8 +1,8 @@
 
 <img src = "32272f11-9a0a-4ca0-8ee3-db7c2bb6b40e.gif" width = 100%>
 I'm Moosa, otherwise known as UnholyMoses. I'm a data scientist and a software engineer, interested in Systems Engineering, Decentralized AI and privacy first engineering.<br><br>
-#Things I Love:  
-<ul>Ricing Linux environments</ul> <ul>Tinkering with hardware</ul> <ul>Mesh computing</ul> <ul>Pretending to be a netrunner</ul>                                                      
+<h1>Things I Love:</h1>  
+<ul>Ricing Linux environments</ul> <ul>Tinkering with hardware</ul> <ul>Mesh computing</ul> <ul>Pretending to be a netrunner</ul>                                                      
 <br><br>
 
 <!--
