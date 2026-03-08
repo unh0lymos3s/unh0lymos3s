@@ -2,11 +2,12 @@
 <img src = "32272f11-9a0a-4ca0-8ee3-db7c2bb6b40e.gif" width = 100%>
 I'm Moosa, otherwise known as UnholyMoses. I'm a data scientist and a software engineer, interested in Systems Engineering, Decentralized AI and privacy first engineering.<br><br>
 <h1>Things I Love:</h1>  
-<ul>> ⚙ Ricing Linux environments</ul> <ul>>🛠 Tinkering with hardware</ul> <ul>> 💻↔🖥↔📱Mesh computing</ul> <ul>> 🤖 Pretending to be a netrunner</ul>                                                      
+<ul>>⚙ Ricing Linux environments</ul> <ul>>🛠 Tinkering with hardware</ul> <ul>> 💻↔🖥↔📱Mesh computing</ul> <ul>> 🤖 Pretending to be a netrunner</ul>                                                      
 <h1>👨‍💻 Currently Working On:</h1>
 <ul>> 🙋‍♂️ Building a volunteer computing system</ul><ul>> 🦀 Learning Rust </ul><ul>> 🧠👨‍🏫 Doing some Data Science & building tuff neural nets at work</ul>
 <br><br>
 
+Been on a self discovery break dunno when I will be back so ignore my commit history
 <!--
 **unh0lymos3s/unh0lymos3s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
