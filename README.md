@@ -4,7 +4,7 @@ I'm Moosa, otherwise known as UnholyMoses. I'm a data scientist and a software e
 <h1>Things I Love:</h1>  
 <ul>>⚙ Ricing Linux environments</ul> <ul>>🛠 Tinkering with hardware</ul> <ul>> 💻↔🖥↔📱Mesh computing</ul> <ul>> 🤖 Pretending to be a netrunner</ul>                                                      
 <h1>👨‍💻 Currently Working On:</h1>
-<ul>> 🙋‍♂️ Building a volunteer computing system</ul><ul>> 🦀 Learning Rust </ul><ul>> 🧠👨‍🏫 Doing some Data Science & building tuff neural nets at work</ul>
+<ul>> 🙋‍♂️ Building apps that sound good in my head </ul><ul>> 🦀 Learning Rust </ul><ul>> 🧠👨‍🏫 Doing some Data Science & building tuff neural nets at work</ul>
 <br><br>
 
 Been on a self discovery break dunno when I will be back so ignore my commit history
