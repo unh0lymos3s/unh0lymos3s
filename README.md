@@ -7,7 +7,6 @@ I'm Moosa, otherwise known as UnholyMoses. I'm a data scientist and a software e
 <ul>> 🙋‍♂️ Building apps that sound good in my head </ul><ul>> 🦀 Learning Rust </ul><ul>> 🧠👨‍🏫 Doing some Data Science & building tuff neural nets at work</ul>
 <br><br>
 
-Been on a self discovery break dunno when I will be back so ignore my commit history
 <!--
 **unh0lymos3s/unh0lymos3s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
